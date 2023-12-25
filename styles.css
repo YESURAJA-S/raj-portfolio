@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .banner{
-    background-image: url(/portfolio/images/coffee.jpg);
+    background-image: url(./images/coffee.jpg);
     padding: 200px 0px;
     background-size: cover;
     background-repeat: no-repeat;
